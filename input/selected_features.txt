@@ -1,0 +1,5 @@
+Tx
+ff_avg
+RH_avg
+RR
+ss
