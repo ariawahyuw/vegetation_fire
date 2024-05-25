@@ -1,68 +1,68 @@
 Rule 1: Tx > 33.95
-Rule 2: RR <= 78.429 & Tx <= 34.25 & Tx > 33.15 & ss <= 13.439 & ss > -26.011
-Rule 3: RH_avg <= 28.171 & RH_avg > 26.337 & ff_avg > 25.821
-Rule 4: RH_avg <= 27.504 & RR <= 78.558 & Tx > 26.2 & ff_avg <= 25.821 & ss <= 15.205
-Rule 5: RH_avg > 27.504 & RR <= 78.558 & Tx > 33.15 & ff_avg > 21.151 & ss <= 17.561 & ss > 0.485
-Rule 6: RH_avg <= 28.171 & RR <= 78.429 & Tx <= 32.95 & Tx > 31.0 & ff_avg > 24.265 & ss <= 13.439 & ss > 7.551
-Rule 7: RR <= 78.558 & Tx > 32.95 & ff_avg <= 24.265 & ss <= 15.205
-Rule 8: Tx > 32.1 & ff_avg <= 21.151
-Rule 9: RH_avg <= 27.17 & RR <= 78.429 & ss <= 13.439
-Rule 10: RH_avg > 28.337 & RR <= 78.429 & Tx > 32.65 & ss <= 13.439
-Rule 11: RH_avg <= 27.67 & Tx > 32.1 & ff_avg <= 22.708
-Rule 12: Tx > 33.75 & ff_avg <= 25.821 & ss <= 14.617
-Rule 13: RH_avg <= 27.004 & RR <= 78.429 & Tx <= 33.65 & ss <= 23.449 & ss > 22.271
-Rule 14: RH_avg <= 27.67 & RH_avg > 26.504 & Tx <= 32.85 & Tx > 32.45 & ff_avg > 24.265 & ss <= 15.205 & ss > -4.225
-Rule 15: RH_avg <= 28.087 & RR <= 78.537 & Tx <= 30.85 & Tx > 30.55 & ss > 10.495
-Rule 16: RH_avg > 28.171 & RR > 78.558 & Tx > 33.15 & ss <= 8.434 & ss > -10.996
-Rule 17: ff_avg > 25.821 & ss > 15.205
-Rule 18: RH_avg <= 27.837 & RH_avg > 26.67 & RR <= 78.386 & Tx <= 32.25 & ff_avg > 24.265 & ss <= 15.205 & ss > 14.028
-Rule 19: RH_avg > 28.171 & RR <= 80.67 & Tx <= 33.15 & Tx > 31.55 & ff_avg > 24.265 & ss <= 1.663 & ss > -14.823
-Rule 20: Tx > 33.25 & ff_avg <= 24.265 & ss <= 18.738 & ss > 14.617
-Rule 21: RH_avg <= 27.17 & RH_avg > 27.004 & RR <= 79.851 & Tx <= 32.55 & Tx > 26.2 & ff_avg <= 25.821 & ss <= 15.205 & ss > -21.3
-Rule 22: RH_avg > 28.004 & RR <= 78.558 & Tx <= 32.85 & Tx > 31.75 & ff_avg > 24.265 & ss > 10.495
-Rule 23: RH_avg > 27.504 & RR <= 81.273 & RR > 78.386 & Tx <= 32.95 & Tx > 32.05 & ff_avg > 24.265 & ss <= -0.692 & ss > -4.225
-Rule 24: RR <= 112.689 & RR > 108.531 & Tx > 32.3
-Rule 25: Tx <= 32.75 & ff_avg > 27.378 & ss <= 23.449
-Rule 26: RH_avg <= 28.004 & Tx <= 31.65 & ff_avg <= 24.265 & ff_avg > 22.708 & ss <= 8.14 & ss > 7.551
-Rule 27: RR <= 78.429 & Tx > 33.65 & ss <= 23.449
-Rule 28: RR <= 78.429 & Tx > 26.2 & ss <= 9.906 & ss > 8.729
-Rule 29: RH_avg > 28.171 & RR <= 80.886 & RR > 80.584 & Tx <= 33.15 & Tx > 32.1 & ss <= 9.317 & ss > -4.225
-Rule 30: RH_avg <= 27.837 & RH_avg > 27.504 & RR > 80.886 & Tx <= 34.15 & Tx > 33.15 & ff_avg <= 25.821 & ff_avg > 24.265
-Rule 31: RH_avg <= 27.504 & Tx <= 33.15 & ss <= 21.977 & ss > 21.093
-Rule 32: RH_avg > 28.837 & RR <= 78.408 & ss <= 12.261 & ss > 10.495
-Rule 33: RH_avg <= 27.17 & RH_avg > 27.004 & RR <= 79.119 & RR > 78.386 & Tx <= 33.15
-Rule 34: RR <= 80.713 & Tx <= 32.5 & Tx > 31.55 & ss <= 1.663 & ss > -3.636
-Rule 35: RH_avg <= 27.67 & Tx > 33.65 & ff_avg <= 24.265
-Rule 36: RH_avg <= 27.837 & Tx <= 32.25 & ss > 15.205
-Rule 37: RH_avg > 28.671 & Tx > 31.75 & ff_avg <= 22.708 & ss > 22.271
-Rule 38: RR <= 78.429 & RR > 78.386 & Tx <= 33.25 & Tx > 32.95 & ff_avg <= 24.265
-Rule 39: RR <= 78.429 & Tx <= 33.65 & Tx > 33.55 & ss <= 27.276 & ss > 26.393
-Rule 40: RH_avg > 26.67 & Tx <= 31.55 & ff_avg > 22.708 & ss <= 4.018 & ss > 3.429
-Rule 41: RH_avg > 28.837 & RR <= 83.579 & Tx > 31.55 & ss <= -11.879 & ss > -13.646
-Rule 42: RH_avg <= 27.504 & RH_avg > 27.004 & RR <= 78.558 & Tx > 31.25 & ss > 29.337
-Rule 43: RH_avg <= 28.171 & Tx > 32.9 & ff_avg > 24.265 & ss <= 1.663 & ss > -7.758
-Rule 44: RH_avg > 28.671 & RR <= 83.493 & Tx > 32.7 & ff_avg > 22.708 & ss <= 22.271
-Rule 45: RH_avg <= 28.171 & RH_avg > 26.837 & RR <= 78.429 & ff_avg <= 24.265 & ss > 31.103
-Rule 46: RH_avg <= 28.337 & Tx <= 32.85 & Tx > 31.75 & ff_avg > 24.265 & ss <= 12.85 & ss > 7.551
-Rule 47: RR <= 78.429 & ff_avg <= 21.151
-Rule 48: RR <= 83.557 & RR > 82.933 & ff_avg <= 21.151
-Rule 49: RH_avg <= 28.004 & RR > 115.189 & Tx > 31.55 & ss > 1.663
-Rule 50: RH_avg > 28.837 & RR <= 83.557 & RR > 83.493 & Tx > 31.55
-Rule 51: RR <= 80.196 & RR > 78.429 & Tx > 31.15 & ss > -17.179
-Rule 52: RH_avg <= 27.837 & Tx <= 32.85 & ff_avg > 24.265 & ss <= -20.123
-Rule 53: RH_avg > 28.004 & Tx <= 33.65 & Tx > 33.35 & ss > 24.921
-Rule 54: RH_avg <= 27.67 & RR <= 78.386 & Tx > 31.75 & ss <= 12.261 & ss > 4.607
-Rule 55: RH_avg > 28.171 & RR <= 78.623 & RR > 78.429 & ss <= 9.906 & ss > 6.962
-Rule 56: RR <= 78.558 & Tx > 32.55 & ff_avg <= 22.708 & ss <= 12.261 & ss > -20.123
-Rule 57: RH_avg <= 28.004 & RR <= 78.86 & Tx <= 31.75 & ss <= 13.439 & ss > 12.85
-Rule 58: RH_avg <= 28.171 & RR <= 80.799 & RR > 78.558 & Tx > 33.05 & ss <= 4.313 & ss > -10.702
-Rule 59: Tx <= 30.2 & ff_avg > 25.821
-Rule 60: RR <= 78.429 & Tx <= 26.2
-Rule 61: RR <= 78.515 & RR > 78.429 & Tx > 33.45 & ss > 12.261
-Rule 62: RH_avg <= 26.004 & Tx <= 33.15 & Tx > 32.65 & ss <= 15.205
-Rule 63: Tx <= 32.65 & Tx > 32.45 & ss <= -24.833 & ss > -25.422
-Rule 64: RH_avg > 28.337 & RR > 87.608 & Tx > 32.65 & ss > 20.505
-Rule 65: RR > 90.151 & Tx > 31.45 & ff_avg <= 25.821 & ss <= -20.123 & ss > -24.833
-Rule 66: RH_avg > 28.337 & RR > 80.972 & Tx <= 33.3 & Tx > 33.15 & ss > -4.814
-Rule 67: RH_avg <= 27.837 & RR > 78.386 & Tx <= 32.3 & ss <= -9.524 & ss > -10.702
-Rule 68: RH_avg <= 27.67 & RR <= 78.386 & Tx > 31.55 & ss <= 1.663 & ss > -5.403
+Rule 2: RR <= 0.15 & Tx <= 34.25 & Tx > 33.15 & ss <= 7.75 & ss > 1.05
+Rule 3: RH_avg <= 83.5 & RH_avg > 72.5 & ff_avg > 3.5
+Rule 4: RH_avg <= 79.5 & RR <= 0.45 & Tx > 26.2 & ff_avg <= 3.5 & ss <= 8.05
+Rule 5: RH_avg > 79.5 & RR <= 0.45 & Tx > 33.15 & ff_avg > 0.5 & ss <= 8.45 & ss > 5.55
+Rule 6: RH_avg <= 83.5 & RR <= 0.15 & Tx <= 32.95 & Tx > 31.0 & ff_avg > 2.5 & ss <= 7.75 & ss > 6.75
+Rule 7: RR <= 0.45 & Tx > 32.95 & ff_avg <= 2.5 & ss <= 8.05
+Rule 8: Tx > 32.1 & ff_avg <= 0.5
+Rule 9: RH_avg <= 77.5 & RR <= 0.15 & ss <= 7.75
+Rule 10: RH_avg > 84.5 & RR <= 0.15 & Tx > 32.65 & ss <= 7.75
+Rule 11: RH_avg <= 80.5 & Tx > 32.1 & ff_avg <= 1.5
+Rule 12: Tx > 33.75 & ff_avg <= 3.5 & ss <= 7.95
+Rule 13: RH_avg <= 76.5 & RR <= 0.15 & Tx <= 33.65 & ss <= 9.45 & ss > 9.25
+Rule 14: RH_avg <= 80.5 & RH_avg > 73.5 & Tx <= 32.85 & Tx > 32.45 & ff_avg > 2.5 & ss <= 8.05 & ss > 4.75
+Rule 15: RH_avg <= 83.0 & RR <= 0.4 & Tx <= 30.85 & Tx > 30.55 & ss > 7.25
+Rule 16: RH_avg > 83.5 & RR > 0.45 & Tx > 33.15 & ss <= 6.9 & ss > 3.6
+Rule 17: ff_avg > 3.5 & ss > 8.05
+Rule 18: RH_avg <= 81.5 & RH_avg > 74.5 & RR <= 0.05 & Tx <= 32.25 & ff_avg > 2.5 & ss <= 8.05 & ss > 7.85
+Rule 19: RH_avg > 83.5 & RR <= 5.35 & Tx <= 33.15 & Tx > 31.55 & ff_avg > 2.5 & ss <= 5.75 & ss > 2.95
+Rule 20: Tx > 33.25 & ff_avg <= 2.5 & ss <= 8.65 & ss > 7.95
+Rule 21: RH_avg <= 77.5 & RH_avg > 76.5 & RR <= 3.45 & Tx <= 32.55 & Tx > 26.2 & ff_avg <= 3.5 & ss <= 8.05 & ss > 1.85
+Rule 22: RH_avg > 82.5 & RR <= 0.45 & Tx <= 32.85 & Tx > 31.75 & ff_avg > 2.5 & ss > 7.25
+Rule 23: RH_avg > 79.5 & RR <= 6.75 & RR > 0.05 & Tx <= 32.95 & Tx > 32.05 & ff_avg > 2.5 & ss <= 5.35 & ss > 4.75
+Rule 24: RR <= 79.65 & RR > 70.0 & Tx > 32.3
+Rule 25: Tx <= 32.75 & ff_avg > 4.5 & ss <= 9.45
+Rule 26: RH_avg <= 82.5 & Tx <= 31.65 & ff_avg <= 2.5 & ff_avg > 1.5 & ss <= 6.85 & ss > 6.75
+Rule 27: RR <= 0.15 & Tx > 33.65 & ss <= 9.45
+Rule 28: RR <= 0.15 & Tx > 26.2 & ss <= 7.15 & ss > 6.95
+Rule 29: RH_avg > 83.5 & RR <= 5.85 & RR > 5.15 & Tx <= 33.15 & Tx > 32.1 & ss <= 7.05 & ss > 4.75
+Rule 30: RH_avg <= 81.5 & RH_avg > 79.5 & RR > 5.85 & Tx <= 34.15 & Tx > 33.15 & ff_avg <= 3.5 & ff_avg > 2.5
+Rule 31: RH_avg <= 79.5 & Tx <= 33.15 & ss <= 9.2 & ss > 9.05
+Rule 32: RH_avg > 87.5 & RR <= 0.1 & ss <= 7.55 & ss > 7.25
+Rule 33: RH_avg <= 77.5 & RH_avg > 76.5 & RR <= 1.75 & RR > 0.05 & Tx <= 33.15
+Rule 34: RR <= 5.45 & Tx <= 32.5 & Tx > 31.55 & ss <= 5.75 & ss > 4.85
+Rule 35: RH_avg <= 80.5 & Tx > 33.65 & ff_avg <= 2.5
+Rule 36: RH_avg <= 81.5 & Tx <= 32.25 & ss > 8.05
+Rule 37: RH_avg > 86.5 & Tx > 31.75 & ff_avg <= 1.5 & ss > 9.25
+Rule 38: RR <= 0.15 & RR > 0.05 & Tx <= 33.25 & Tx > 32.95 & ff_avg <= 2.5
+Rule 39: RR <= 0.15 & Tx <= 33.65 & Tx > 33.55 & ss <= 10.1 & ss > 9.95
+Rule 40: RH_avg > 74.5 & Tx <= 31.55 & ff_avg > 1.5 & ss <= 6.15 & ss > 6.05
+Rule 41: RH_avg > 87.5 & RR <= 12.1 & Tx > 31.55 & ss <= 3.45 & ss > 3.15
+Rule 42: RH_avg <= 79.5 & RH_avg > 76.5 & RR <= 0.45 & Tx > 31.25 & ss > 10.45
+Rule 43: RH_avg <= 83.5 & Tx > 32.9 & ff_avg > 2.5 & ss <= 5.75 & ss > 4.15
+Rule 44: RH_avg > 86.5 & RR <= 11.9 & Tx > 32.7 & ff_avg > 1.5 & ss <= 9.25
+Rule 45: RH_avg <= 83.5 & RH_avg > 75.5 & RR <= 0.15 & ff_avg <= 2.5 & ss > 10.75
+Rule 46: RH_avg <= 84.5 & Tx <= 32.85 & Tx > 31.75 & ff_avg > 2.5 & ss <= 7.65 & ss > 6.75
+Rule 47: RR <= 0.15 & ff_avg <= 0.5
+Rule 48: RR <= 12.05 & RR > 10.6 & ff_avg <= 0.5
+Rule 49: RH_avg <= 82.5 & RR > 85.45 & Tx > 31.55 & ss > 5.75
+Rule 50: RH_avg > 87.5 & RR <= 12.05 & RR > 11.9 & Tx > 31.55
+Rule 51: RR <= 4.25 & RR > 0.15 & Tx > 31.15 & ss > 2.55
+Rule 52: RH_avg <= 81.5 & Tx <= 32.85 & ff_avg > 2.5 & ss <= 2.05
+Rule 53: RH_avg > 82.5 & Tx <= 33.65 & Tx > 33.35 & ss > 9.7
+Rule 54: RH_avg <= 80.5 & RR <= 0.05 & Tx > 31.75 & ss <= 7.55 & ss > 6.25
+Rule 55: RH_avg > 83.5 & RR <= 0.6 & RR > 0.15 & ss <= 7.15 & ss > 6.65
+Rule 56: RR <= 0.45 & Tx > 32.55 & ff_avg <= 1.5 & ss <= 7.55 & ss > 2.05
+Rule 57: RH_avg <= 82.5 & RR <= 1.15 & Tx <= 31.75 & ss <= 7.75 & ss > 7.65
+Rule 58: RH_avg <= 83.5 & RR <= 5.65 & RR > 0.45 & Tx > 33.05 & ss <= 6.2 & ss > 3.65
+Rule 59: Tx <= 30.2 & ff_avg > 3.5
+Rule 60: RR <= 0.15 & Tx <= 26.2
+Rule 61: RR <= 0.35 & RR > 0.15 & Tx > 33.45 & ss > 7.55
+Rule 62: RH_avg <= 70.5 & Tx <= 33.15 & Tx > 32.65 & ss <= 8.05
+Rule 63: Tx <= 32.65 & Tx > 32.45 & ss <= 1.25 & ss > 1.15
+Rule 64: RH_avg > 84.5 & RR > 21.45 & Tx > 32.65 & ss > 8.95
+Rule 65: RR > 27.35 & Tx > 31.45 & ff_avg <= 3.5 & ss <= 2.05 & ss > 1.25
+Rule 66: RH_avg > 84.5 & RR > 6.05 & Tx <= 33.3 & Tx > 33.15 & ss > 4.65
+Rule 67: RH_avg <= 81.5 & RR > 0.05 & Tx <= 32.3 & ss <= 3.85 & ss > 3.65
+Rule 68: RH_avg <= 80.5 & RR <= 0.05 & Tx > 31.55 & ss <= 5.75 & ss > 4.55
